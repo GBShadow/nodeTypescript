@@ -34,5 +34,5 @@ app.use((err: Error, req: Request, res: Response, _: NextFunction) => {
 });
 
 app.listen(3333, '192.168.15.10', () => {
-  console.log('🔧 Back-end started on port 3333');
+  console.log('💈 Back-end started on port 3333');
 });
